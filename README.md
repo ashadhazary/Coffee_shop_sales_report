@@ -2,6 +2,14 @@
 
 This project contains SQL queries for analyzing a Coffee Shop Sales dataset. The queries provide business insights such as total sales, order volume, product performance, monthly growth, hourly trends, and store performance.
 
+<img width="725" height="484" alt="coffee shop sales dashbord" src="https://github.com/user-attachments/assets/6604ff4c-5eda-4121-85eb-a5f21d3b42e1" />
+
+<img width="728" height="482" alt="tooltip show" src="https://github.com/user-attachments/assets/d62ea380-8cb4-4db2-93df-6b540302cea5" />
+
+<img width="730" height="484" alt="hour map tooltip" src="https://github.com/user-attachments/assets/35dfef50-48e9-4919-a488-0b8da3574afa" />
+
+
+
 ---
 
 ## 📌 Project Overview
