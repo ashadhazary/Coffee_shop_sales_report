@@ -350,6 +350,14 @@ After completing this project, you will understand how to:
 
 ---
 
+## 📬 Connect With Me
+
+- LinkedIn: *(https://www.linkedin.com/in/ashadhazary/)*
+- Fiverr: *https://www.fiverr.com/hazaryashad?public_mode=true*
+- Email: *ashadhazary10@gmail.com*
+
+---
+
 ## ⭐ If you found this project helpful
 
 Feel free to ⭐ star this repository and fork it to explore additional SQL analytics and dashboard projects.
